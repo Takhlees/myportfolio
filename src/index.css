@@ -1,0 +1,361 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: antiquewhite;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.app {
+  width: 100%;
+  color: antiquewhite;
+  background-color: rgb(25, 25, 67);
+}
+
+body {
+  background-color: rgb(25, 25, 67);
+}
+
+.navbar-nav {
+  color: rgb(249, 238, 238);
+  font-size: larger;
+  padding: 20px 10px 10px 10px;
+  margin: 0px 10px 10px 10px;
+  width: 96%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.comp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 30%;
+}
+
+.navbar-nav Link {
+  color: rgb(249, 238, 238);
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.nav-link {
+  cursor: pointer;
+}
+
+.info {
+  width: 20%;
+  height: 20%;
+  padding: 10px 10px 10px 10px;
+  background-color: rgb(163, 210, 210);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: wrap;
+
+}
+
+#home {
+  margin-bottom: 150px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#heading {
+  padding: 100px 0px 20px 0px;
+  font-size: 300%;
+}
+
+.gmail {
+  margin: 10px;
+  width: 30px;
+  height: 33px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.linkedin {
+  margin: 10px;
+  width: 40px;
+  height: 40px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.github {
+  margin: 10px;
+  width: 43px;
+  height: 43px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+#home button {
+  margin: 30px;
+  width: 13%;
+  padding: 10px;
+  background-color: rgb(66, 66, 236);
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.a-list {
+  margin: 10px;
+  text-align: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.a-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.paragraph,
+.education {
+  padding: 30px 30px 20px 30px;
+  font-size: 120%;
+
+}
+
+.ul {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+.li {
+  margin: 10px 100px 10px 10px;
+}
+
+.skills {
+  padding: 20px 10px 20px 30px;
+
+}
+
+.p-list {
+  margin: 40px 30px 30px 30px;
+  padding: 10px 0px 0px 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.p-heading,
+.c-heading {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+#projects ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#projects li {
+  padding: 20px 30px 40px 10px;
+  width: 40%;
+  display: flex;
+  border: #fff;
+}
+
+.c-list {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  width: 90%;
+  padding: 20px 20px 20px 100px;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 150%;
+}
+
+.c-item {
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.c-item label {
+  padding-right: 10px;
+}
+
+.c-item input {
+  font-size: 15px;
+  display: flex;
+  padding: 5px;
+  color: black;
+  width: 390%;
+}
+
+.c-item textarea {
+  font-size: 15px;
+  display: flex;
+  padding: 5px;
+  color: black;
+  width: 300%;
+}
+
+.c-input {
+  padding: 10px 20px 10px 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(66, 66, 236);
+  margin: 10px;
+  cursor: pointer;
+}
+
+.c-btn {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.app-btn {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.app-btn button {
+  color: black;
+  font-size: 30px;
+  padding: 5px;
+  margin: 10px;
+  position: sticky;
+  cursor: pointer;
+}
+
+.footer {
+  background-color: #2b1f79;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0px 20px 0px;
+  text-align: center;
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.hamburger-icon {
+  cursor: pointer;
+  display: none;
+  /* Hide the hamburger icon on larger screens */
+}
+
+.navbar-items {
+  display: none;
+}
+
+.bar {
+  width: 30px;
+  height: 3px;
+  background-color: #fff;
+  margin: 5px 0;
+}
+
+
+
+/* Media query for mobile view */
+@media (max-width: 768px) {
+
+  .hamburger-icon {
+    display: block;
+    margin-right: 10px;
+    /* Show the hamburger icon on mobile screens */
+  }
+
+  .navbar-items {
+    display: none;
+    /* Hide the navigation items on mobile screens by default */
+  }
+
+  .comp {
+    display: none;
+  }
+
+  .navbar-items.show {
+    display: flex;
+    /* Show the navigation items when the class "show" is added */
+    flex-direction: column;
+    position: absolute;
+    align-items: flex-start;
+    background-color: #2d487d;
+    height: 18%;
+    width: 25%;
+    justify-content: space-between;
+    padding: 10px 10px 10px 20px;
+    margin-top: 40px;
+    margin-left: 65%;
+  }
+
+  #home {
+    margin-bottom: 50px;
+    /* Reduce the margin */
+  }
+
+  /* Adjust heading size for smaller screens */
+  #heading {
+    font-size: 200%;
+    /* Reduce the font size */
+    padding: 50px 0;
+  }
+
+  /* Adjust button width for smaller screens */
+  #home button {
+    width: 30%;
+    /* Adjust the width */
+  }
+
+  /* Adjust styles for smaller screens */
+  .paragraph,
+  .education,
+  .skills {
+    padding: 15px;
+    /* Adjust the padding */
+    font-size: 100%;
+    /* Reset font size */
+  }
+
+  /* Adjust styles for smaller screens */
+  #projects li {
+    padding: 20px;
+    /* Adjust the padding */
+    width: 100%;
+    /* Occupy full width */
+  }
+
+  /* Adjust styles for smaller screens */
+  .c-item input {
+    width: 100%;
+    /* Occupy full width */
+  }
+
+  .c-item textarea {
+    width: 70%;
+  }
+
+  .footer {
+    width: 120%;
+  }
+
+}
