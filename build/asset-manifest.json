@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.a7ea3cc8.css",
+    "main.js": "/myportfolio/static/js/main.672bfdd4.js",
+    "static/media/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930587_72.png": "/myportfolio/static/media/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930587_72.ffe9ad9e36324ff19f7b.png",
+    "static/media/logo-gmail-9952.png": "/myportfolio/static/media/logo-gmail-9952.4f10d6dbd55f9ac499cb.png",
+    "index.html": "/myportfolio/index.html",
+    "main.a7ea3cc8.css.map": "/myportfolio/static/css/main.a7ea3cc8.css.map",
+    "main.672bfdd4.js.map": "/myportfolio/static/js/main.672bfdd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7ea3cc8.css",
+    "static/js/main.672bfdd4.js"
+  ]
+}

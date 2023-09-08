@@ -12,7 +12,7 @@ export default function Project() {
                 <ul>
                     <li>
                         <div>
-                            <h3>TextUtils</h3>
+                            <h2>TextUtils</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
                             <p>Decscription: It offers features such as converting
                                 entered text into uppercase, lowercase letters,
@@ -22,7 +22,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>Basic Landing Page of a Company</h3>
+                            <h2>Basic Landing Page of a Company</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs, API</p>
                             <p>Decscription:  It contains basic home -page, about-page
                                 and contact.</p>
@@ -30,7 +30,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>Registeration Form</h3>
+                            <h2>Registeration Form</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
                             <p>Decscription: s. It has input validations and on incorrect
                                 input, it shows alerts.
@@ -39,7 +39,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>NewsMonkey</h3>
+                            <h2>NewsMonkey</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs, API</p>
                             <p>Decscription: s. It is a dynamic web application that
                                 harnesses the power of APIs to deliver real time
@@ -48,7 +48,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>Calculator</h3>
+                            <h2>Calculator</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
                             <p>Decscription: It performs basic arithmetic operations like
                                 addition, subtraction, multiplication, division and
@@ -57,7 +57,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>CountDown Timer</h3>
+                            <h2>CountDown Timer</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
                             <p>Decscription: It has functionality of sta rting , stopping ,
                                 restarting and resetting the timer.
@@ -66,7 +66,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>Currency Converter</h3>
+                            <h2>Currency Converter</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
                             <p>Decscription: Through the integration of external currency
                                 exchange API, users can effortlessly convert USD to
@@ -75,7 +75,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>Login Page</h3>
+                            <h2>Login Page</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
                             <p>Decscription: It
                                 implements input validation, error alerts and
@@ -84,7 +84,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>Notes</h3>
+                            <h2>Notes</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
                             <p>Description: It
                                 has functionality of adding, deleting, editing a note
@@ -93,7 +93,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>Personal Portfolio</h3>
+                            <h2>Personal Portfolio</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
                             <p>Decscription: s. It
                                 showcases my education, skills and contact
@@ -103,7 +103,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>AI-Image-Generator</h3>
+                            <h2>AI-Image-Generator</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, API </p>
                             <p>Decscription: n. It can generate images relevant to the
                                 entered text.</p>
@@ -112,7 +112,7 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>React-Dall-E-Clone</h3>
+                            <h2>React-Dall-E-Clone</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs, API </p>
                             <p>Decscription: It can create images relevant to the
                                 entered text and also generate variations of the
@@ -122,21 +122,21 @@ export default function Project() {
                     </li>
                     <li>
                         <div>
-                            <h3>JavaScript-ChatGpt-Clone</h3>
+                            <h2>JavaScript-ChatGpt-Clone</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, API </p>
                             <p>Decscription: It is a dynamic conversational interface. </p>
                         </div>
                     </li>
                     <li>
                         <div>
-                            <h3>React-ChatGpt-Clone</h3>
+                            <h2>React-ChatGpt-Clone</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs, API </p>
                             <p>Decscription: It is a dynamic conversational interface. </p>
                         </div>
                     </li>
                     <li>
                         <div>
-                            <h3>SQL-Generator</h3>
+                            <h2>SQL-Generator</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs, API </p>
                             <p>Decscription:  It has functionality of generating queries
                                 for entered text.</p>

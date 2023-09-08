@@ -41,7 +41,9 @@ export default function Home() {
         <span onClick={handleLinkedInClick}><img className='linkedin' src={LinkedIn}></img></span>
         <span onClick={handleGitHubClick}><img className='github' src={GitHub}></img></span>
       </div>
-      <button onClick={handleResume}>Download Resume</button>
+      <div className='h-button'>
+      <button className= "h-btn" onClick={handleResume}>Download Resume</button>
+      </div>
     </div>
   )
 }
