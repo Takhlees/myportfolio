@@ -201,7 +201,7 @@ body {
 
 .form {
   display: flex;
-  width: 100%;
+  width: 95%;
   margin: 30px;
   padding: 20px;
   flex-direction: column;
@@ -221,7 +221,7 @@ body {
   display: flex;
   padding: 5px;
   color: black;
-  width: 100%;
+  width: 90%;
 }
 
 
@@ -303,7 +303,7 @@ body {
   }
 .port{
   width: 100%;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
   .navbar-items {
@@ -355,7 +355,6 @@ body {
   /* Adjust styles for smaller screens */
   .c-item input, textarea {
     width: 100%;
-    max-width: 300px;
   }
 
   .c-item {
@@ -363,11 +362,12 @@ body {
   }
 
   .form {
+    width: 90%;
     margin: 10px;
   }
 
   .footer {
-    width: 110%;
+    width: 105%;
   }
 
 }
