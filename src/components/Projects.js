@@ -32,7 +32,7 @@ export default function Project() {
                         <div>
                             <h2>Registeration Form</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
-                            <p>Decscription: s. It has input validations and on incorrect
+                            <p>Decscription: It has input validations and on incorrect
                                 input, it shows alerts.
                             </p>
                         </div>
@@ -41,7 +41,7 @@ export default function Project() {
                         <div>
                             <h2>NewsMonkey</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs, API</p>
-                            <p>Decscription: s. It is a dynamic web application that
+                            <p>Decscription:  It is a dynamic web application that
                                 harnesses the power of APIs to deliver real time
                                 news updates to users.</p>
                         </div>
@@ -59,7 +59,7 @@ export default function Project() {
                         <div>
                             <h2>CountDown Timer</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
-                            <p>Decscription: It has functionality of sta rting , stopping ,
+                            <p>Decscription: It has functionality of starting , stopping ,
                                 restarting and resetting the timer.
                             </p>
                         </div>
@@ -77,8 +77,7 @@ export default function Project() {
                         <div>
                             <h2>Login Page</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
-                            <p>Decscription: It
-                                implements input validation, error alerts and
+                            <p>Decscription: It implements input validation, error alerts and
                                 password hashing for enhanced security.</p>
                         </div>
                     </li>
@@ -86,26 +85,26 @@ export default function Project() {
                         <div>
                             <h2>Notes</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
-                            <p>Description: It
-                                has functionality of adding, deleting, editing a note
-                                and also keep history of notes. </p>
+                            <p>Description: It has functionality of adding, deleting,
+                                 editing a note and also keep history of notes. </p>
+                                
                         </div>
                     </li>
                     <li>
                         <div>
                             <h2>Personal Portfolio</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, ReactJs</p>
-                            <p>Decscription: s. It
-                                showcases my education, skills and contact
-                                information, presenting a overview of my
-                                professional profile. </p>
+                            <p>Decscription: It showcases my education, skills and contact
+                            information, presenting a overview of my professional
+                            profile. </p>
+                                 
                         </div>
                     </li>
                     <li>
                         <div>
                             <h2>AI-Image-Generator</h2>
                             <p>Technologies Used: HTML, CSS, JavaScript, API </p>
-                            <p>Decscription: n. It can generate images relevant to the
+                            <p>Decscription: It can generate images relevant to the
                                 entered text.</p>
 
                         </div>
